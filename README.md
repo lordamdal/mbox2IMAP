@@ -9,8 +9,10 @@ Installation
 Mbox2IMAP requires Python 3.x to be installed on your system.
 
 1.  **Clone the repository:**
-`git clone https://github.com/lordamdal/Mbox2IMAP.git`3.  **Navigate to the directory:**
-`cd Mbox2IMAP`5.  **Install the required Python packages:**
+`git clone https://github.com/lordamdal/Mbox2IMAP.git`
+2.  **Navigate to the directory:**
+`cd Mbox2IMAP`
+3.  **Install the required Python packages:**
 `pip3 install imapclient`
 
 Usage
