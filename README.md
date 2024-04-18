@@ -1,5 +1,8 @@
-Mbox2IMAP
+Mbox2IMAP  Emails Migration from : mbox file to an IMAP server.
 =========
+If you're trying to Migrate from Google Work Space to Cpanel Email, You're have the right tool. 
+
+Don't forget to download your Google Email on : https://takeout.google.com/
 
 Mbox2IMAP is a Python script that simplifies the migration of emails from an mbox file to an IMAP server. It provides a user-friendly graphical interface for selecting the mbox file and configuring the destination IMAP server.
 
